@@ -4,6 +4,7 @@ l_name = "Jane"
 print(f"Hello {f_name}{l_name}")
 print(f"Hello {f_name + l_name}")
 
+int("20")
 
 # Integer
 num = 10  
